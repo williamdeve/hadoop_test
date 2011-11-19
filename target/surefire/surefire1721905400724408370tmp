@@ -1,0 +1,5 @@
+#surefire
+#Tue May 17 14:34:56 CST 2011
+user.dir=C\:\\jee_webservice\\com.acxiom.hadoop.test
+localRepository=C\:\\Documents and Settings\\willxu\\.m2\\repository
+basedir=C\:\\jee_webservice\\com.acxiom.hadoop.test
